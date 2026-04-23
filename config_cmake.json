@@ -1,0 +1,5 @@
+{
+    "output_dir": "../OutFiles",
+    "generate_hex": true,
+    "generate_bin": true
+}
